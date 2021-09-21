@@ -5,5 +5,5 @@
 `  
 2. From "https://www.dafont.com/ds-digital.font" download and install fonts.
 
-3.Open the folder in terminal and type  ### `python .\clock.py
+3.Open the folder in terminal and type  ###`python .\clock.py
 ` 
